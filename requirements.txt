@@ -1,1 +1,11 @@
-# Add your project dependencies here
+python-dotenv
+fastapi
+uvicorn
+psycopg2-binary
+dbt-core
+requests
+pandas
+SQLAlchemy
+pyyaml
+opencv-python
+yolov5  # or ultralytics if using the new YOLO
