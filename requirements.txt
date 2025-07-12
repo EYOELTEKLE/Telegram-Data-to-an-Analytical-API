@@ -9,3 +9,4 @@ SQLAlchemy
 pyyaml
 opencv-python
 yolov5  # or ultralytics if using the new YOLO
+telethon
